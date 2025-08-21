@@ -1,5 +1,7 @@
 .venv
 .vscode
 *.png
-*.pt
 *.jpg
+7segment-display-yolov8
+runs
+train*

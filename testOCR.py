@@ -1,8 +1,8 @@
 from ultralytics import YOLO
 from PIL import Image
 
-model = YOLO('yolov8n.pt')
-image_path = 'processed.png'
+model = YOLO('balancaReader.pt')
+image_path = 'original.png'
 
 print('------------------------------------------')
 print('Reading image:', image_path)

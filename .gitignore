@@ -5,3 +5,5 @@
 7segment-display-yolov8
 runs
 train*
+.env
+__pycache__
